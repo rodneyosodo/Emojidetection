@@ -104,4 +104,4 @@ venv.bak/
 .mypy_cache/
 
 # personal data
-#/Human_data
+/Human_data
