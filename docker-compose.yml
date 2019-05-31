@@ -1,0 +1,21 @@
+version: "3"
+
+services:
+  webapp:
+    build: .
+    ports:
+      - 8081:5000
+    networks:
+      - default
+    command: python app.py
+    deploy:
+      mode: replicated
+      replicas: 3
+      resources:
+        limits:
+          cpus: "0.1"
+          memory: 100M
+      restart_policy:
+        condition: on-failure
+        delay: 5s
+
