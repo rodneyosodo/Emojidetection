@@ -3,7 +3,7 @@ MAINTAINER b1ackdot <b1ackd0t@protonmail.com>
 
 # basic python installation
 RUN apt-get update 
-RUN apt-get install -y python python-dev py-pip build-base
+RUN apt-get install -y python python-dev python-pip
 
 # application folder
 RUN mkdir App
