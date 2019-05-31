@@ -1,11 +1,12 @@
 # Emojidetection
-[![License MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/0x6f736f646f/Emojidetection/blob/master/LICENSE)
-[![HitCount](http://hits.dwyl.io/0x6f736f646f/Emojidetection.svg)](http://hits.dwyl.io/0x6f736f646f/Emojidetection)
+[![HitCount](http://hits.dwyl.io/0x6f736f646f/Emojidetection.svg?style=flat)](http://hits.dwyl.io/0x6f736f646f/Emojidetection)
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/0x6f736f646f/Emojidetection/issues)
-![GitHub repo size](https://img.shields.io/github/repo-size/0x6f736f646f/Emojidetection.svg?color=purple&style=plastic)
-![PyPI - Python Version](https://img.shields.io/pypi/pyversions/Flask.svg?style=plastic)
-![GitHub last commit](https://img.shields.io/github/last-commit/0x6f736f646f/Emojidetection.svg?style=plastic)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/w/0x6f736f646f/Emojidetection.svg?style=plastic)
+![GitHub repo size](https://img.shields.io/github/repo-size/0x6f736f646f/Emojidetection.svg?color=purple&style=flat)
+![PyPI - Python Version](https://img.shields.io/pypi/pyversions/Flask.svg?style=flat)
+![GitHub last commit](https://img.shields.io/github/last-commit/0x6f736f646f/Emojidetection.svg?style=flat)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/w/0x6f736f646f/Emojidetection.svg?style=flat)
+![GitHub language count](https://img.shields.io/github/languages/count/0x6f736f646f/Emojidetection.svg?style=flat)
+[![License MIT](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://github.com/0x6f736f646f/Emojidetection/blob/master/LICENSE)
 
 Replacing your emotions or signs you do with emojis
 ## Getting Started
