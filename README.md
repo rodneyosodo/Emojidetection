@@ -1,8 +1,13 @@
 # Emojidetection
-Replacing your emotions or signs you do with emojis
-[![License MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/saschagrunert/webapp.rs/blob/master/LICENSE)
+[![License MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/0x6f736f646f/Emojidetection/blob/master/LICENSE)
 [![HitCount](http://hits.dwyl.io/0x6f736f646f/Emojidetection.svg)](http://hits.dwyl.io/0x6f736f646f/Emojidetection)
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/0x6f736f646f/Emojidetection/issues)
+![GitHub repo size](https://img.shields.io/github/repo-size/0x6f736f646f/Emojidetection.svg?color=purple&style=plastic)
+![PyPI - Python Version](https://img.shields.io/pypi/pyversions/Flask.svg?style=plastic)
+![GitHub last commit](https://img.shields.io/github/last-commit/0x6f736f646f/Emojidetection.svg?style=plastic)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/w/0x6f736f646f/Emojidetection.svg?style=plastic)
 
+Replacing your emotions or signs you do with emojis
 ## Getting Started
 
 These instructions will get you a copy of the code up and running on your local machine for development purposes and playing around 😂 and testing purposes. Deployment will focus on one of the available platforms.
