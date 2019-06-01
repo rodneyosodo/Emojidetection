@@ -1,10 +1,12 @@
 FROM debian:stable-slim
-MAINTAINER b1ackdot <b1ackd0t@protonmail.com>
+LABEL name="b1ackdot"
 
 # basic python installation
 RUN apt-get update 
 RUN apt-get install -y python python-dev python-pip
 
+# Opencv installation
+RUN apt-get install -y python-opencv
 # application folder
 RUN mkdir App
 COPY . /App
