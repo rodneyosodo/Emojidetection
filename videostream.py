@@ -53,5 +53,5 @@ class VideoStream():
                 end_cord_y = y + h
             cv2.rectangle(frame, (x,y), (end_cord_x, end_cord_y), color, stroke)
             cv2.putText(frame, name, (x,y), font, 1, color, stroke, cv2.LINE_AA)
-        ret, jpeg = cv2.imencode('.jpg', frame)
+        ret1, jpeg = cv2.imencode('.jpg', frame)
         return jpeg.tobytes()
